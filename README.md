@@ -74,7 +74,9 @@ macOS productivity utilities for creating text files and opening terminals direc
 <div align="center">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%203%20mins-blue)
+
+
 <!--END_SECTION:waka-->
   
 </div>
