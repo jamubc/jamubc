@@ -18,7 +18,7 @@
 
 ## 🚀 Featured Projects
 
-### **[Logic Pro MCP Website](https://github.com/jamubc/logic-pro-mcp-website)**
+### **[Logic Pro MCP (unreleased)](https://github.com/jamubc/logic-pro-mcp-website)**
 Comprehensive documentation and showcase for the Logic Pro MCP server, enabling AI assistants to control Logic Pro DAW through sophisticated AppleScript automation. Applies engineering problem-solving to music technology challenges.
 
 ### **[Gemini MCP Tool](https://github.com/jamubc/gemini-mcp-tool)**
