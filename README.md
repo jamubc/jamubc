@@ -52,6 +52,40 @@ No Activity Tracked This Week
   
 </div>
 
+### Additional Stats
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=jamubc&theme=default&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamubc&theme=github-compact&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+![Profile Summary](https://REMOVED/api/cards/profile-details?username=jamubc&theme=default)
+
+</div>
+
+<div align="center">
+  
+<img src="https://REMOVED/api/cards/most-commit-language?username=jamubc&theme=default" width="350"/>
+<img src="https://REMOVED/api/cards/repos-per-language?username=jamubc&theme=default" width="350"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://REMOVED/api/cards/stats?username=jamubc&theme=default" width="350"/>
+<img src="https://REMOVED/api/cards/productive-time?username=jamubc&theme=default&utcOffset=8" width="350"/>
+
+</div>
+
 ## Featured Projects
 
 **[Logic Pro MCP Website](https://github.com/jamubc/logic-pro-mcp-website)**  
