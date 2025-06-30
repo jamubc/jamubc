@@ -24,15 +24,6 @@ Comprehensive documentation and showcase for the Logic Pro MCP server, enabling 
 ### **[Gemini MCP Tool](https://github.com/jamubc/gemini-mcp-tool)**
 MCP server for Google Gemini CLI integration, leveraging Gemini's massive token windows for large file analysis and comprehensive codebase understanding.
 
-### **[Apple Grade Classification Machine](https://github.com/jamubc)** *(Capstone Project)*
-Automated apple sorting system for JA Orchards. Designed hardware prototype using SolidWorks, integrated Raspberry Pi 4 with camera module and IR sensors, implemented ML classification. Combined mechanical design, embedded systems, and computer vision.
-
-### **[Firefox to LibreWolf Migration](https://github.com/jamubc/firefox-to-librewolf-migration)**
-Safe and automated migration tool for transferring Firefox profiles to LibreWolf on macOS, preserving user data and configurations.
-
-### **[Finder Quick Actions](https://github.com/jamubc/finder_quick_actions)**
-macOS productivity utilities for creating text files and opening terminals directly from Finder locations.
-
 ## 💻 Technical Stack
 
 ### **Languages & Core Technologies**
