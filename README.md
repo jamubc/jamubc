@@ -1,10 +1,8 @@
 <div align="center">
   
-# Hi, I'm Andrew 👋
-
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical+Engineering+@+UBC;Full-Stack+Developer;Hardware-Software+Integration;Open+Source+Contributor&center=true&width=500&height=50&font=Fira%20Code&pause=1000">
 
-**4th Year Electrical Engineering | Signal Processing | Embedded Systems | Web Development**
+**Electrical Engineering**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-andrewmanson.engineer-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://andrewmanson.engineer)
 
