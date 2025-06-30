@@ -1,6 +1,4 @@
-# Andrew
-
-**4th Year Electrical Engineering, University of British Columbia | Full-Stack Developer | Open Source Contributor**
+**lectrical Engineering, UBC | Full-Stack Developer | Open Source Contributor**
 
 Electrical Engineering student specializing in signal processing, embedded systems, and materials science. Experienced in hardware-software integration, from FPGA development and circuit design to modern web applications. Passionate about applying engineering principles to create developer tools and automation systems that bridge hardware-software interfaces.
 
