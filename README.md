@@ -140,4 +140,4 @@ No Activity Tracked This Week
 Portfolio: [andrewmanson.engineer](https://andrewmanson.engineer)  
 GitHub: [@jamubc](https://github.com/jamubc)
 
-Open to collaboration on innovative projects combining hardware and software expertise, particularly in control systems, automation, AI tool development, and audio technology applications.
+Open to collaboration on innovative projects combining hardware and software expertise, particularly in control systems, automation, AI tool development, and audio technology applications. 
