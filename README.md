@@ -16,19 +16,7 @@ Portfolio: [andrewmanson.engineer](https://andrewmanson.engineer)
 <div align="center">
   
 <!--START_SECTION:waka-->
-**🐱 GitHub Activity** 
 
-> 📦 ? Private 
- > 
-> 🏆 208 Activity 2025
- > 
-> 🚫 Status Private
- > 
-> 📜 14 Repositories 
- > 
-> 🔑 0 Private Repos 
- > 
-**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
