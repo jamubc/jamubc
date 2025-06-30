@@ -16,29 +16,14 @@ Portfolio: [andrewmanson.engineer](https://andrewmanson.engineer)
 <div align="center">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**🐱 GitHub Activity** 
-
-> 📦 ? Private 
- > 
-> 🏆 208 Activity 2025
- > 
-> 🚫 Status Private
- > 
-> 📜 13 Repositories 
- > 
-> 🔑 0 Private Repos 
- > 
-**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-🌆 Daytime                29 commits          █████████░░░░░░░░░░░░░░░░   36.71 % 
-🌃 Evening                25 commits          ████████░░░░░░░░░░░░░░░░░   31.65 % 
-🌙 Night                  21 commits          ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+🌞                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+🌆                   29 commits          █████████░░░░░░░░░░░░░░░░   36.71 % 
+🌃                   25 commits          ████████░░░░░░░░░░░░░░░░░   31.65 % 
+🌙                   21 commits          ███████░░░░░░░░░░░░░░░░░░   26.58 % 
 ```
-📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -50,26 +35,6 @@ Saturday                 8 commits           ███░░░░░░░░�
 Sunday                   26 commits          ████████░░░░░░░░░░░░░░░░░   32.91 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Vancouver
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
