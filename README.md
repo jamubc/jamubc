@@ -18,11 +18,11 @@
 
 ## 🚀 Featured Projects
 
-### **[Logic Pro MCP (unreleased)](https://github.com/jamubc/logic-pro-mcp-website)**
-Comprehensive documentation and showcase for the Logic Pro MCP server, enabling AI assistants to control Logic Pro DAW through sophisticated AppleScript automation. Applies engineering problem-solving to music technology challenges.
-
 ### **[Gemini MCP Tool](https://github.com/jamubc/gemini-mcp-tool)**
-MCP server for Google Gemini CLI integration, leveraging Gemini's massive token windows for large file analysis and comprehensive codebase understanding.
+MCP server for Google Gemini CLI integration, leveraging Gemini's massive token windows for large file analysis and comprehensive codebase understanding. Built for Claude Code.
+
+### **[Logic Pro MCP (unreleased)](https://github.com/jamubc/logic-pro-mcp-website)**
+Enabling AI assistants to control Logic Pro DAW through built in Apple automation. Learn more @  [link](https://logic-pro-mcp-website.vercel.app)
 
 ## 💻 Technical Stack
 
@@ -57,8 +57,13 @@ MCP server for Google Gemini CLI integration, leveraging Gemini's massive token 
 
 ### **Engineering Software**
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square&logo=solidworks&logoColor=white)
-![Logic Pro](https://img.shields.io/badge/-Logic_Pro-000000?style=flat-square&logo=apple&logoColor=white)
 ![Oscilloscope](https://img.shields.io/badge/-Lab_Equipment-008080?style=flat-square&logo=electron&logoColor=white)
+
+## 🎵 Music & Audio Production
+
+![Logic Pro](https://img.shields.io/badge/-Logic_Pro-000000?style=flat-square&logo=apple&logoColor=white)
+
+Passionate about music production and audio engineering, leveraging technical skills in digital signal processing for creative expression. Current focus on integrating AI tools with professional DAW workflows.
 
 ## 📈 Development Activity
 
@@ -83,6 +88,7 @@ MCP server for Google Gemini CLI integration, leveraging Gemini's massive token 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamubc&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)
 
 </div>
+
 
 ## 🎓 Engineering Background
 
