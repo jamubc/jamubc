@@ -65,7 +65,7 @@ MCP server for Google Gemini CLI integration, leveraging Gemini's massive token 
 <div align="center">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2050%20mins-blue)
 
 
 <!--END_SECTION:waka-->
