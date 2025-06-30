@@ -99,10 +99,10 @@ macOS productivity utilities for creating text files and opening terminals direc
 **Electrical Engineering @ UBC** (4th Year)
 - **Core Specializations**: Signal Processing, Embedded Systems, Materials Science
 - **Key Courses**: 
-  - ENGR 362: Digital Signal Processing & Filter Design
-  - ENGR 352: Embedded Systems & Real-Time Programming
-  - Electromagnetic Field Theory & Photonics
-  - Semiconductor Physics & Materials Characterization
+  - Digital Signal Processing & Filter Design
+  - Embedded Systems & Real-Time Programming
+  - Electromagnetism & Photonics
+  - Semiconductor Physics & Materials science
 
 ### **Hardware & Systems Experience**
 - **Embedded Platforms**: STM32, Arduino, Raspberry Pi, FPGA development
