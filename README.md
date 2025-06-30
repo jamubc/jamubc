@@ -18,20 +18,11 @@
 
 ## 🚀 Featured Projects
 
-### **[Logic Pro MCP Website](https://github.com/jamubc/logic-pro-mcp-website)**
+### **[Logic Pro MCP (unreleased)](https://github.com/jamubc/logic-pro-mcp-website)**
 Comprehensive documentation and showcase for the Logic Pro MCP server, enabling AI assistants to control Logic Pro DAW through sophisticated AppleScript automation. Applies engineering problem-solving to music technology challenges.
 
 ### **[Gemini MCP Tool](https://github.com/jamubc/gemini-mcp-tool)**
 MCP server for Google Gemini CLI integration, leveraging Gemini's massive token windows for large file analysis and comprehensive codebase understanding.
-
-### **[Apple Grade Classification Machine](https://github.com/jamubc)** *(Capstone Project)*
-Automated apple sorting system for JA Orchards. Designed hardware prototype using SolidWorks, integrated Raspberry Pi 4 with camera module and IR sensors, implemented ML classification. Combined mechanical design, embedded systems, and computer vision.
-
-### **[Firefox to LibreWolf Migration](https://github.com/jamubc/firefox-to-librewolf-migration)**
-Safe and automated migration tool for transferring Firefox profiles to LibreWolf on macOS, preserving user data and configurations.
-
-### **[Finder Quick Actions](https://github.com/jamubc/finder_quick_actions)**
-macOS productivity utilities for creating text files and opening terminals directly from Finder locations.
 
 ## 💻 Technical Stack
 
@@ -74,7 +65,9 @@ macOS productivity utilities for creating text files and opening terminals direc
 <div align="center">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2014%20mins-blue)
+
+
 <!--END_SECTION:waka-->
   
 </div>
@@ -97,10 +90,10 @@ macOS productivity utilities for creating text files and opening terminals direc
 **Electrical Engineering @ UBC** (4th Year)
 - **Core Specializations**: Signal Processing, Embedded Systems, Materials Science
 - **Key Courses**: 
-  - ENGR 362: Digital Signal Processing & Filter Design
-  - ENGR 352: Embedded Systems & Real-Time Programming
-  - Electromagnetic Field Theory & Photonics
-  - Semiconductor Physics & Materials Characterization
+  - Digital Signal Processing & Filter Design
+  - Embedded Systems & Real-Time Programming
+  - Electromagnetism & Photonics
+  - Semiconductor Physics & Materials science
 
 ### **Hardware & Systems Experience**
 - **Embedded Platforms**: STM32, Arduino, Raspberry Pi, FPGA development
