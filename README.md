@@ -56,13 +56,13 @@ No Activity Tracked This Week
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=jamubc&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jamubc&theme=default&hide_border=true)
 
 </div>
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamubc&theme=github-compact&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamubc&theme=github-compact&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph)
 
 </div>
 
@@ -82,7 +82,45 @@ No Activity Tracked This Week
 <div align="center">
   
 <img src="https://REMOVED/api/cards/stats?username=jamubc&theme=default" width="350"/>
-<img src="https://REMOVED/api/cards/productive-time?username=jamubc&theme=default&utcOffset=8" width="350"/>
+<img src="https://REMOVED/api/cards/productive-time?username=jamubc&theme=default&utcOffset=-8" width="350"/>
+
+</div>
+
+### More Development Metrics
+
+<div align="center">
+
+![Metrics](https://REMOVED/jamubc?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&lines=1&code=1&activity=1&languages=1&followup=1&reactions=1&people=1&stargazers=1&repositories=1&config.timezone=America%2FVancouver)
+
+</div>
+
+<div align="center">
+
+![Snake animation](https://github.com/jamubc/jamubc/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center">
+  
+![Commits per hour](https://REMOVED/api/cards/productive-time?username=jamubc&theme=github&utcOffset=-8)
+
+</div>
+
+<div align="center">
+  
+![Trophy](https://REMOVED/?username=jamubc&theme=flat&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+<div align="center">
+  
+![Contribution Stats](https://REMOVED/api?username=jamubc&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+<div align="center">
+  
+<img src="https://REMOVED/api/wakatime?username=jamubc&theme=default&hide_border=true" width="500"/>
 
 </div>
 
