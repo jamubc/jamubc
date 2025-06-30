@@ -32,6 +32,6 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_LOC_CHART: "True"
           SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_SHORT_INFO: "True"
+          SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "True"
           COMMIT_MESSAGE: "docs: update README with wakatime stats [skip ci]"
