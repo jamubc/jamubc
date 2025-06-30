@@ -4,7 +4,7 @@
 
 **Electrical Engineering**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-andrew--portfolio--tau.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://andrew-portfolio-tau.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://andrew-portfolio-tau.vercel.app)
 
 </div>
 
@@ -120,7 +120,7 @@ I'm passionate about projects that combine hardware expertise with software inno
 - Audio technology and signal processing
 - Embedded systems and IoT applications
 
-**Portfolio**: [andrew-portfolio-tau.vercel.app](https://andrew-portfolio-tau.vercel.app)  
+**Portfolio**: [Portfolio](https://andrew-portfolio-tau.vercel.app)  
 **GitHub**: [@jamubc](https://github.com/jamubc)
 
 ---
