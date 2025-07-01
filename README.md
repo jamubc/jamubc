@@ -70,7 +70,7 @@ Passionate about music production and audio engineering, leveraging technical sk
 <div align="center">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs-blue)
 
 
 <!--END_SECTION:waka-->
