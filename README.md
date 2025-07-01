@@ -93,7 +93,7 @@ Passionate about music production and audio engineering, leveraging technical sk
 ## 🎓 Engineering Background
 
 ### **Academic Foundation**
-**Electrical Engineering @ UBC** (4th Year)
+**Electrical Engineering**
 - **Core Specializations**: Signal Processing, Embedded Systems, Materials Science
 - **Key Courses**: 
   - Digital Signal Processing & Filter Design
