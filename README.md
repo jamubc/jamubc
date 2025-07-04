@@ -24,7 +24,7 @@ MCP server for Google Gemini CLI integration, leveraging Gemini's massive token 
 ### **[Logic Pro MCP (unreleased)](https://github.com/jamubc/logic-pro-mcp-website)**
 Enabling AI assistants to control Logic Pro DAW through built in Apple automation. Learn more @  [link](https://logic-pro-mcp-website.vercel.app)
 
-## 💻
+---
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -49,6 +49,7 @@ Enabling AI assistants to control Logic Pro DAW through built in Apple automatio
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square&logo=solidworks&logoColor=white)
 ![Oscilloscope](https://img.shields.io/badge/-Lab_Equipment-008080?style=flat-square&logo=electron&logoColor=white)
 ![Logic Pro](https://img.shields.io/badge/-Logic_Pro-000000?style=flat-square&logo=apple&logoColor=white)
+---
 
 Passionate about music production and audio engineering, leveraging technical skills in digital signal processing for creative expression. Current focus on integrating AI tools with professional DAW workflows.
 
