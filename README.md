@@ -24,9 +24,7 @@ MCP server for Google Gemini CLI integration, leveraging Gemini's massive token 
 ### **[Logic Pro MCP (unreleased)](https://github.com/jamubc/logic-pro-mcp-website)**
 Enabling AI assistants to control Logic Pro DAW through built in Apple automation. Learn more @  [link](https://logic-pro-mcp-website.vercel.app)
 
-## 💻 Technical Stack
-
-### **Languages & Core Technologies**
+## 💻
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -34,33 +32,22 @@ Enabling AI assistants to control Logic Pro DAW through built in Apple automatio
 ![MATLAB](https://img.shields.io/badge/-MATLAB/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![AppleScript](https://img.shields.io/badge/-AppleScript-000000?style=flat-square&logo=apple&logoColor=white)
-
-### **Web Development & Frameworks**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### **Tools & Infrastructure**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-### **Hardware & Embedded Systems**
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![FPGA](https://img.shields.io/badge/-FPGA-0000FF?style=flat-square&logo=xilinx&logoColor=white)
-
-### **Engineering Software**
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square&logo=solidworks&logoColor=white)
 ![Oscilloscope](https://img.shields.io/badge/-Lab_Equipment-008080?style=flat-square&logo=electron&logoColor=white)
-
-## 🎵 Music & Audio Production
-
 ![Logic Pro](https://img.shields.io/badge/-Logic_Pro-000000?style=flat-square&logo=apple&logoColor=white)
 
 Passionate about music production and audio engineering, leveraging technical skills in digital signal processing for creative expression. Current focus on integrating AI tools with professional DAW workflows.
