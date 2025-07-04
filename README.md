@@ -85,7 +85,6 @@ Enabling AI assistants to control Logic Pro DAW through built in Apple automatio
 - **Embedded Platforms**: STM32, Arduino, Raspberry Pi, FPGA development
 - **Programming**: C++, ARMV7 Assembly, Python, MATLAB/Simulink
 - **Design Tools**: SolidWorks (3D modeling), PCB design, Circuit simulation
-- **Lab Skills**: Oscilloscopes, Function generators, Signal analysis
 
 ### **Current Focus Areas**
 - **Multi-AI-Collab Framework**: Integrating multiple AI models for collaborative development
