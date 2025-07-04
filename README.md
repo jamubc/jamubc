@@ -10,20 +10,14 @@
 
 ---
 
-## 📊 GitHub Overview
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=jamubc&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
-
-## 🚀 Featured Projects
-
-### **[Gemini MCP Tool](https://github.com/jamubc/gemini-mcp-tool)**
+---
+### **[gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool)**
 MCP server for Google Gemini CLI integration, leveraging Gemini's massive token windows for large file analysis and comprehensive codebase understanding. Built for Claude Code.
-
-### **[Logic Pro MCP (unreleased)](https://github.com/jamubc/logic-pro-mcp-website)**
+### **[logic-pro-mcp(unreleased)](https://github.com/jamubc/logic-pro-mcp-website)**
 Enabling AI assistants to control Logic Pro DAW through built in Apple automation. Learn more @  [link](https://logic-pro-mcp-website.vercel.app)
-
 ---
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -50,46 +44,25 @@ Enabling AI assistants to control Logic Pro DAW through built in Apple automatio
 ![Oscilloscope](https://img.shields.io/badge/-Lab_Equipment-008080?style=flat-square&logo=electron&logoColor=white)
 ![Logic Pro](https://img.shields.io/badge/-Logic_Pro-000000?style=flat-square&logo=apple&logoColor=white)
 ---
-
-Passionate about music production and audio engineering, leveraging technical skills in digital signal processing for creative expression. Current focus on integrating AI tools with professional DAW workflows.
-
-## 📈 Development Activity
-
 <div align="center">
-  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2038%20mins-blue)
-
-
 <!--END_SECTION:waka-->
-  
 </div>
-
 <div align="center">
-  
 ![Snake animation](https://github.com/jamubc/jamubc/blob/output/github-contribution-grid-snake.svg)
-
 </div>
-
 <div align="center">
   
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamubc&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)
 
 </div>
-
-
-## 🎓 Engineering Background
-
-### **Academic Foundation**
-**Electrical Engineering**
-- **Core Specializations**: Signal Processing, Embedded Systems, Materials Science
-- **Key Courses**: 
+**Signal Processing, Embedded Systems, Materials Science
   - Digital Signal Processing & Filter Design
   - Embedded Systems & Real-Time Programming
   - Electromagnetism & Photonics
   - Semiconductor Physics & Materials science
-
-### **Hardware & Systems Experience**
+  
 - **Embedded Platforms**: STM32, Arduino, Raspberry Pi, FPGA development
 - **Programming**: C++, ARMV7 Assembly, Python, MATLAB/Simulink
 - **Design Tools**: SolidWorks (3D modeling), PCB design, Circuit simulation
@@ -102,11 +75,10 @@ Passionate about music production and audio engineering, leveraging technical sk
 
 ### **Research Interests**
 - **Control Systems & Automation**: Large-scale automated systems and feedback control design
-- **Materials Science & Energy**: Semiconductor materials and battery technology
-- **Audio Technology**: Digital signal processing applications in music production
+- **Materials Science
 - **Hardware-Software Integration**: Bridging embedded systems with modern architectures
 
-## 🤝 Let's Connect
+## Connect
 
 I'm passionate about projects that combine hardware expertise with software innovation, particularly in:
 - Control systems and industrial automation
