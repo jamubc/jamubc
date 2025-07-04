@@ -86,11 +86,6 @@ Enabling AI assistants to control Logic Pro DAW through built in Apple automatio
 - **Programming**: C++, ARMV7 Assembly, Python, MATLAB/Simulink
 - **Design Tools**: SolidWorks (3D modeling), PCB design, Circuit simulation
 
-### **Current Focus Areas**
-- **Multi-AI-Collab Framework**: Integrating multiple AI models for collaborative development
-- **MCP Server Development**: Building tools that bridge AI assistants with specialized software
-- **macOS Automation**: Creating developer utilities and productivity enhancements
-
 ### **Research Interests**
 - **Control Systems & Automation**: Large-scale automated systems and feedback control design
 - **Materials Science**: Advanced materials and semiconductor applications
@@ -98,7 +93,7 @@ Enabling AI assistants to control Logic Pro DAW through built in Apple automatio
 
 ## Connect
 
-I'm passionate about projects that combine hardware expertise with software innovation, particularly in:
+I'm passionate about projects that combine hardware with software, particularly in:
 - Control systems and industrial automation
 - Developer tools and AI integration
 - Audio technology and signal processing
