@@ -46,7 +46,9 @@ Enabling AI assistants to control Logic Pro DAW through built in Apple automatio
 ---
 <div align="center">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%205%20mins-blue)
+
+
 <!--END_SECTION:waka-->
 </div>
 <div align="center">
