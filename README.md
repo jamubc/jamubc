@@ -126,8 +126,7 @@ I'm passionate about projects that combine hardware expertise with software inno
 - Audio technology and signal processing
 - Embedded systems and IoT applications
 
-**Portfolio**: [Portfolio](https://andrew-portfolio-tau.vercel.app)  
-**GitHub**: [@jamubc](https://github.com/jamubc)
+**Portfolio**: [Portfolio](https://andrew-portfolio-tau.vercel.app)
 
 ---
 
