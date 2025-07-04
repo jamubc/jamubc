@@ -13,12 +13,17 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=jamubc&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
+
 ---
+
 ### **[gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool)**
 MCP server for Google Gemini CLI integration, leveraging Gemini's massive token windows for large file analysis and comprehensive codebase understanding. Built for Claude Code.
-### **[logic-pro-mcp(unreleased)](https://github.com/jamubc/logic-pro-mcp-website)**
-Enabling AI assistants to control Logic Pro DAW through built in Apple automation. Learn more @  [link](https://logic-pro-mcp-website.vercel.app)
+
+### **[logic-pro-mcp (unreleased)](https://github.com/jamubc/logic-pro-mcp-website)**
+Enabling AI assistants to control Logic Pro DAW through built in Apple automation. Learn more @ [link](https://logic-pro-mcp-website.vercel.app)
+
 ---
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -43,28 +48,38 @@ Enabling AI assistants to control Logic Pro DAW through built in Apple automatio
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square&logo=solidworks&logoColor=white)
 ![Oscilloscope](https://img.shields.io/badge/-Lab_Equipment-008080?style=flat-square&logo=electron&logoColor=white)
 ![Logic Pro](https://img.shields.io/badge/-Logic_Pro-000000?style=flat-square&logo=apple&logoColor=white)
+
 ---
+
 <div align="center">
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%205%20mins-blue)
-
-
 <!--END_SECTION:waka-->
+
 </div>
+
 <div align="center">
+
 ![Snake animation](https://github.com/jamubc/jamubc/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
 <div align="center">
   
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamubc&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)
 
 </div>
-**Signal Processing, Embedded Systems, Materials Science
-  - Digital Signal Processing & Filter Design
-  - Embedded Systems & Real-Time Programming
-  - Electromagnetism & Photonics
-  - Semiconductor Physics & Materials science
+
+### **Technical Expertise**
+
+**Signal Processing, Embedded Systems, Materials Science**
+- Digital Signal Processing & Filter Design
+- Embedded Systems & Real-Time Programming
+- Electromagnetism & Photonics
+- Semiconductor Physics & Materials science
   
+**Skills & Tools**
 - **Embedded Platforms**: STM32, Arduino, Raspberry Pi, FPGA development
 - **Programming**: C++, ARMV7 Assembly, Python, MATLAB/Simulink
 - **Design Tools**: SolidWorks (3D modeling), PCB design, Circuit simulation
@@ -77,7 +92,7 @@ Enabling AI assistants to control Logic Pro DAW through built in Apple automatio
 
 ### **Research Interests**
 - **Control Systems & Automation**: Large-scale automated systems and feedback control design
-- **Materials Science
+- **Materials Science**: Advanced materials and semiconductor applications
 - **Hardware-Software Integration**: Bridging embedded systems with modern architectures
 
 ## Connect
@@ -88,7 +103,7 @@ I'm passionate about projects that combine hardware expertise with software inno
 - Audio technology and signal processing
 - Embedded systems and IoT applications
 
-**Portfolio**: [Portfolio](https://andrew-portfolio-tau.vercel.app)
+**Portfolio**: [andrew-portfolio-tau.vercel.app](https://andrew-portfolio-tau.vercel.app)
 
 ---
 
