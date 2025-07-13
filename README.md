@@ -23,7 +23,7 @@ MCP server for Google Gemini CLI integration, leveraging Gemini's massive token 
 Enabling AI assistants to control Logic Pro DAW through built in Apple automation. Learn more @ [link](https://logic-pro-mcp-website.vercel.app)
 
 ### **[canvas-mcp-tool](https://github.com/jamubc/canvas-mcp-tool)**
-A command-line MCP server for Canvas enabling natural-language commands to list courses, assignments, and manage resources. Install with npx canvas-mcp-tool and configure your Canvas API environment variables.
+A command-line MCP server for Canvas enabling natural-language commands to list courses, assignments, and keep up with homework. Install with npx canvas-mcp-tool and configure your Canvas API environment variables.
 
 ---
 
