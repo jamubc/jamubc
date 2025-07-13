@@ -16,6 +16,9 @@
 
 ---
 
+### **[canvas-mcp-tool](https://github.com/jamubc/canvasTools)**
+Sleek UI enhancement tool for Canvas LMS with dark mode toggle, sidebar integration, and keyboard shortcuts. Streamlines navigation and improves user experience for Canvas UBC.
+
 ### **[gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool)**
 MCP server for Google Gemini CLI integration, leveraging Gemini's massive token windows for large file analysis and comprehensive codebase understanding. Built for Claude Code.
 
