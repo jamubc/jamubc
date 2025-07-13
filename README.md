@@ -19,6 +19,9 @@
 ### **[gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool)**
 MCP server for Google Gemini CLI integration, leveraging Gemini's massive token windows for large file analysis and comprehensive codebase understanding. Built for Claude Code.
 
+### **[canvas-mcp-tool](https://github.com/jamubc/canvas-mcp-tool)**
+MCP server for Canvas LMS integration, enabling AI assistants to interact with course content, assignments, and student data through the Canvas API. Built for educational workflows.
+
 ### **[logic-pro-mcp (unreleased)](https://github.com/jamubc/logic-pro-mcp-website)**
 Enabling AI assistants to control Logic Pro DAW through built in Apple automation. Learn more @ [link](https://logic-pro-mcp-website.vercel.app)
 
