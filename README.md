@@ -9,6 +9,7 @@
 </div>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=jamubc)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=jamubc&theme=default&hide_border=true" alt="GitHub Streak" />
