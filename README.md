@@ -11,10 +11,10 @@
 </div>
 
 ### **Research Interests**
-- control systems and feedback controllers
-- Semiconductors, their behaviours and their compositions.
-- Analog Circuits
+- Control systems and controllers
+- Semiconductor devices
 - Electromagnetism
+- Analog Circuits
 
 ### **[gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool)**
 An MCP server
