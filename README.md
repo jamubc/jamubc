@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio_@-jandrewmanson.engineer-blue?style=plastic)](https://www.jandrewmanson.engineer/)
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio_@-jandrewmanson.engineer-blue?style=plastic)](https://www.jandrewmanson.engineer/)
+  
 </div>
 
 <div align="center">
