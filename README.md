@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio_@-jandrewmanson.engineer-blue?style=plastic)](https://www.jandrewmanson.engineer/)
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jamubc/jamubc/blob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/jamubc/jamubc/blob/output/github-contribution-grid-snake.svg">
