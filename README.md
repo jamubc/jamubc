@@ -6,6 +6,16 @@
   <a href="https://www.jandrewmanson.engineer/">
     <img src="https://img.shields.io/badge/Portfolio_@-jandrewmanson.engineer-blue?style=plastic" width="300" />
   </a>
+  <br/>
+  <a href="https://pypi.org/user/jamubc/">
+    <img src="https://img.shields.io/badge/PyPI-@jamubc-blue?style=plastic&logo=pypi&logoColor=white" width="148" />
+  </a>
+  <a href="https://www.npmjs.com/~filecrop">
+    <img src="https://img.shields.io/badge/npm-@filecrop-blue?style=plastic&logo=npm&logoColor=white" width="148" />
+  </a>
+  <a href="https://greasyfork.org/en/users/1402921-jamubc">
+    <img src="https://img.shields.io/badge/GreasyFork-@jamubc-blue?style=plastic" width="148" />
+  </a>
 </div>
 
 <div align="center">
