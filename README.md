@@ -61,6 +61,9 @@ Integration tool to run third-party models directly within Grok Build without ex
 #### [Canvas Downloader](https://github.com/jamubc/Canvas_Downloader)
 CLI tool for downloading and organizing course materials from Canvas LMS.
 
+#### [canvas-mcp-tool](https://github.com/jamubc/canvas-mcp-tool)
+MCP server enabling AI assistants to query course details, assignments, and announcements from Canvas LMS.
+
 #### [text-difference-viewer](https://github.com/jamubc/text-difference-viewer)
 Monaco-editor based web interface for visual side-by-side text comparisons.
 
