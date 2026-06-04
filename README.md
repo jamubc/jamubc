@@ -55,7 +55,7 @@ MCP server enabling AI assistants to interface with the Google Gemini CLI to par
 #### [2ManyTabs-MCP](https://github.com/jamubc/2ManyTabs-MCP)
 MCP-based browser tab management utility for AI agents to query, group, and clean browser sessions.
 
-#### [open-grok-build](https://github.com/jamubc/open-grok-build)
+#### [grok-build-providers](https://github.com/jamubc/grok-build-providers)
 Integration tool to run third-party models directly within Grok Build without external background services.
 
 #### [Canvas Downloader](https://github.com/jamubc/Canvas_Downloader)
