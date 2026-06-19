@@ -1,4 +1,7 @@
 <div align="center">
+
+# Andrew Manson
+
   <a href="https://www.jandrewmanson.engineer/">
     <img src="https://img.shields.io/badge/Portfolio-jandrewmanson.engineer-3B82F6?style=for-the-badge" />
   </a>
@@ -11,22 +14,22 @@
   <a href="https://greasyfork.org/en/users/1402921-jamubc">
     <img src="https://img.shields.io/badge/GreasyFork-jamubc-000000?style=for-the-badge" />
   </a>
+
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jamubc/jamubc/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/jamubc/jamubc/blob/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://github.com/jamubc/jamubc/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamubc/jamubc/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamubc/jamubc/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/jamubc/jamubc/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ---
-* [jandrewmanson.engineer](https://www.jandrewmanson.engineer/)
----
----
+
+### Projects
 
 <table border="0" cellspacing="0" cellpadding="14">
   <tr>
@@ -53,21 +56,34 @@
     </td>
     <td valign="middle">an attempt to capture ideas as quickly as possible, its a notes app.</td>
   </tr>
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/jamubc/grok-build-providers">
+        <img src="https://custom-icon-badges.demolab.com/badge/grok--build--providers-white?logo=grok-build-providers" height="54"/>
+      </a>
+    </td>
+    <td valign="middle">Integration tool to run third-party models directly within Grok Build without external background services.</td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/jamubc/Canvas_Downloader">
+        <img src="https://custom-icon-badges.demolab.com/badge/Canvas--Downloader-white?logo=canvas-downloader" height="54"/>
+      </a>
+    </td>
+    <td valign="middle">CLI tool for downloading and organizing course materials from Canvas LMS.</td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/jamubc/canvas-mcp-tool">
+        <img src="https://custom-icon-badges.demolab.com/badge/canvas--mcp--tool-white?logo=canvas-mcp-tool" height="54"/>
+      </a>
+    </td>
+    <td valign="middle">MCP server enabling AI assistants to query course details, assignments, and announcements from Canvas LMS.</td>
+  </tr>
 </table>
-
-#### [grok-build-providers](https://github.com/jamubc/grok-build-providers)
-Integration tool to run third-party models directly within Grok Build without external background services.
-
-#### [Canvas Downloader](https://github.com/jamubc/Canvas_Downloader)
-CLI tool for downloading and organizing course materials from Canvas LMS.
-
-#### [canvas-mcp-tool](https://github.com/jamubc/canvas-mcp-tool)
-MCP server enabling AI assistants to query course details, assignments, and announcements from Canvas LMS.
 
 ---
 
 <div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=jamubc&color=3B82F6&style=flat-square)
-
+  <img src="https://komarev.com/ghpvc/?username=jamubc&color=3B82F6&style=flat-square" alt="Profile views" />
 </div>
