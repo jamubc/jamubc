@@ -26,11 +26,34 @@
 ---
 * [jandrewmanson.engineer](https://www.jandrewmanson.engineer/)
 ---
-#### [gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool)
-MCP server enabling AI assistants to interface with the Google Gemini CLI to parse large-context files and codebases.
+---
 
-#### [2ManyTabs-MCP](https://github.com/jamubc/2ManyTabs-MCP)
-MCP-based browser tab management utility for AI agents to query, group, and clean browser sessions.
+<table border="0" cellspacing="0" cellpadding="14">
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/jamubc/gemini-mcp-tool">
+        <img src="https://custom-icon-badges.demolab.com/badge/gemini--mcp--tool-white?logo=gemini-mcp-tool" height="54"/>
+      </a>
+    </td>
+    <td valign="middle">mcp for "coding cli" LLM to LLM interaction, editing, and general task delegation. Supports <a href="https://geminicli.com/">Gemini</a> and/or <a href="https://antigravity.google/docs/cli-install">AGY CLI</a></td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/jamubc/2ManyTabs-MCP">
+        <img src="https://custom-icon-badges.demolab.com/badge/2ManyTabs--MCP-white?logo=Lineage" height="54"/>
+      </a>
+    </td>
+    <td valign="middle">mcp for pulling tab statistics and tab control, lightweight <a href="https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3">MV3</a> extension to connect preferred browser.</td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/Jam-Sw/InstantNotes">
+        <img src="https://custom-icon-badges.demolab.com/badge/InstantNotes-white?logo=instantnotes" height="54"/>
+      </a>
+    </td>
+    <td valign="middle">an attempt to capture ideas as quickly as possible, its a notes app.</td>
+  </tr>
+</table>
 
 #### [grok-build-providers](https://github.com/jamubc/grok-build-providers)
 Integration tool to run third-party models directly within Grok Build without external background services.
@@ -41,13 +64,10 @@ CLI tool for downloading and organizing course materials from Canvas LMS.
 #### [canvas-mcp-tool](https://github.com/jamubc/canvas-mcp-tool)
 MCP server enabling AI assistants to query course details, assignments, and announcements from Canvas LMS.
 
-#### [text-difference-viewer](https://github.com/jamubc/text-difference-viewer)
-Monaco-editor based web interface for visual side-by-side text comparisons.
-
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=jamubc&color=3B82F6&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=jamubc&color=3B82F6&style=flat-square)
 
 </div>
