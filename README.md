@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Electrical+Engineering;Software+Automation;Model+Context+Protocol&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=2563EB" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <a href="https://www.jandrewmanson.engineer/">
     <img src="https://img.shields.io/badge/Portfolio-jandrewmanson.engineer-3B82F6?style=for-the-badge" />
   </a>
@@ -28,27 +24,8 @@
 </div>
 
 ---
-
-### Profile
-Electrical engineer and software developer specializing in control systems, Model Context Protocol (MCP) integrations, and automation tools.
-
-* **Portfolio**: [jandrewmanson.engineer](https://www.jandrewmanson.engineer/)
-* **Packages**: [PyPI Profile](https://pypi.org/user/jamubc/) | [npm Profile](https://www.npmjs.com/~filecrop) | [GreasyFork Profile](https://greasyfork.org/en/users/1402921-jamubc)
-
+* [jandrewmanson.engineer](https://www.jandrewmanson.engineer/)
 ---
-
-### Core Areas
-
-| Discipline | Focus Fields |
-| :--- | :--- |
-| **Electrical Engineering** | Control systems, semiconductor devices, electromagnetism, and analog circuits |
-| **Software Development** | Python, JavaScript/TypeScript, Node.js, and C/C++ |
-| **Integrations & Tooling** | Model Context Protocol (MCP) servers, CLI/TUI automation, and GitHub APIs |
-
----
-
-### Repositories
-
 #### [gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool)
 MCP server enabling AI assistants to interface with the Google Gemini CLI to parse large-context files and codebases.
 
