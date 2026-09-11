@@ -80,6 +80,14 @@
     </td>
     <td valign="middle">MCP server enabling AI assistants to query course details, assignments, and announcements from Canvas LMS.</td>
   </tr>
+<tr>
+    <td valign="middle">
+      <a href="https://marketplace.visualstudio.com/items?itemName=jandrewm.deepseek-harness-vscode-english">
+        <img src="https://custom-icon-badges.demolab.com/badge/deepseek--harness--vscode-white?logo=deepseek-harness-vscode-english" height="54"/>
+      </a>
+    </td>
+    <td valign="middle">Use DeepSeek Harness in VS Code /w Copilot: <code>ext install jandrewm.deepseek-harness-vscode-english</code></td>
+  </tr>
 </table>
 
 ---
